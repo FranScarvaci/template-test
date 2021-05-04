@@ -6,8 +6,8 @@
   
   },
   {
-    "text": "Educad a los niños y no será necesario castigar a los hombres",
-    "author": "Pitágoras de Samos",
+    "text": "No creo en el eterno femenino, una esencia de mujer, algo místico. La mujer no nace, se hace",
+    "author": "Simone de Beauvoir",
   
   },
   {
@@ -77,11 +77,6 @@
   {
     "text": "Un pequeño saber no puede equipararse a uno grande. Ni una corta vida a una larga existencia. ¿Cómo se sabe que esto es así? El hongo que sólo vive una mañana desconoce el ciclo de la luna. La cigarra de verano nada sabe de primaveras ni de otoños. Así son las pequeñas existencias",
     "author": "Zhuangzi",
-  
-  },
-  {
-    "text": "Los hombres geniales empiezan grandes obras, los hombres trabajadores las terminan",
-    "author": "Leonardo Da Vinci",
   
   },
   {
@@ -172,7 +167,7 @@
     "author": "Immanuel Kant"
   },
   {
-    "text": "Incluso mientras enseñan, los hombres aprenden.",
+    "text": "Incluso mientras enseñamos, aprendemos.",
     "author": "Séneca"
   },
   {
@@ -207,9 +202,44 @@
     "text": "El lenguaje tiene vocación universalista: pide que usemos la palabra “maternidad” para hablar de tu maternidad y de la mía, aunque sean dos cosas completamente diferentes; pide reglas y generalidades cuando no hay nada menos general y menos reglado que nuestras formas del desear.",
     "author": "Tamara Tenenmbaum"
   },
+  {
+    "text": "Ignoramos nuestra verdadera estatura hasta que nos ponemos en pie",
+    "author": "Emily Dickinson"
+  },
+  {
+    "text": "Si la costumbre fuera mandar a las niñas a la escuela y enseñarles las ciencias con método, como se hace con los niños, aprenderían y entenderían las dificultades y sutilezas de todas las artes y ciencias tan bien como ellos",
+    "author": "Christine de Pizán"
+  },
+  {
+    "text": "Los activistas intersex trabajan para rectificar la errónea presuposición según la cual cada cuerpo alberga una 'verdad innata' sobre su sexo que los profesionales médicos pueden discernir y traer a la luz por sí solos",
+    "author": "Judith Butler"
+  },
+  {
+    "text": "En algunas ocasiones una concepción normatíva del género puede deshacer a la propía persona al socavar su capacidad de continuar habitando una vida llevadera",
+    "author": "Judith Butler"
+  },
+  {
+    "text": "Lo más importante es cesar de legislar para todas estas vidas lo que es habitable sólo para algunos y, de forma similar, abstenerse de proscribir para todas las vidas lo que es invivible para algunos",
+    "author": "Judith Butler"
+  },
+  {
+    "text": "Comprender el género como una categoría histórica es aceptar que el género, entendido como una forma cultural de configurar el cuerpo, está abierto a su continua reforma, y que la 'anatomía' y el 'sexo' no existen sin un marco cultural",
+    "author": "Judith Butler"
+  },
+  {
+    "text": "La categoría de sexo no es ni invariable ni natural, más bien es una utilización especialmente política de la categoría de naturaleza que obedece a los propósitos de la sexualidad reproductiva",
+    "author": "Judith Butler"
+  },
+  {
+    "text": "No hay ningún motivo para clasificar a los cuerpos humanos  en los sexos masculino y femenino a excepción de que dicha clasificación sea útil para las necesidades económicas de la heterosexualidad y le proporcione un brillo naturalista a esta institución",
+    "author": "Judith Butler"
+  },
+
+
+  
 ]; 
 
-export default [localQuotes]
+export default localQuotes
 
 
   
